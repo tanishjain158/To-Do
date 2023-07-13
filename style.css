@@ -1,0 +1,21 @@
+/* style.css */
+
+body {
+    padding: 20px;
+}
+
+.container {
+    max-width: 500px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+#todoList {
+    list-style-type: none;
+}
+
+.completed {
+    text-decoration: line-through;
+}
